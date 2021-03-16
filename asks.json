@@ -1,0 +1,299 @@
+[
+    {
+        "ask": "Qual é o maior mamífero do planeta?",
+        "amount": 50,
+        "answer1": "Baleia-azul",
+        "answer2": "Hipopótamo",
+        "answer3": "Elefante",
+        "answer4": "Girafa",
+        "correctAnswer": "Baleia-azul"
+    },
+    {
+        "ask": "Qual é o maior rio do Brasil?",
+        "amount": 50,
+        "answer1": "Rio Pará",
+        "answer2": "Rio São Francisco",
+        "answer3": "Rio Purus",
+        "answer4": "Rio Amazonas",
+        "correctAnswer": "Rio Amazonas"
+    },
+    {
+        "ask": "Quantos planetas Terra cabem dentro do Sol?",
+        "amount": 50,
+        "answer1": "Um milhão",
+        "answer2": "Dois milhões",
+        "answer3": "Seiscentos",
+        "answer4": "Cem",
+        "correctAnswer": "Um milhão"
+    },
+    {
+        "ask": "Em que lugar vivem mais cangurus do que pessoas?",
+        "amount": 50,
+        "answer1": "Indonésia",
+        "answer2": "Nova Zelândia",
+        "answer3": "Austrália",
+        "answer4": "África do Sul",
+        "correctAnswer": "Austrália"
+    },
+    {
+        "ask": "Quantos olhos a maior parte das aranhas têm?",
+        "amount": 50,
+        "answer1": "Dois",
+        "answer2": "Quatro",
+        "answer3": "Quatro pares",
+        "answer4": "Seis",
+        "correctAnswer": "Quatro pares"
+    },
+    {
+        "ask": "Quanto mede uma girafa?",
+        "amount": 50,
+        "answer1": "Entre 4,8 e 5,5 metros",
+        "answer2": "2 metros",
+        "answer3": "Entre 5 e 6 metros",
+        "answer4": "2,5 metros",
+        "correctAnswer": "Entre 4,8 e 5,5 metros"
+    },
+    {
+        "ask": "Qual a ciência que estuda a atmosfera da Terra e a climatologia?",
+        "amount": 50,
+        "answer1": "Astronomia",
+        "answer2": "Metereologia",
+        "answer3": "Dispersão atmosférica",
+        "answer4": "Horologia",
+        "correctAnswer": "Metereologia"
+    },
+    {
+        "ask": "Quantos braços tem um polvo?",
+        "amount": 50,
+        "answer1": "Seis",
+        "answer2": "Oito",
+        "answer3": "Dez",
+        "answer4": "Sete",
+        "correctAnswer": "Oito"
+    },
+    {
+        "ask": "Quanto tempo o vidro demora para se decompor?",
+        "amount": 50,
+        "answer1": "1000 anos",
+        "answer2": "4000 anos",
+        "answer3": "1 milhão de anos",
+        "answer4": "tempo indeterminado",
+        "correctAnswer": "tempo indeterminado"
+    },
+    {
+        "ask": "De que são constituídos os diamantes?",
+        "amount": 50,
+        "answer1": "Grafite",
+        "answer2": "Carbono",
+        "answer3": "Ósmio",
+        "answer4": "Bóhrio",
+        "correctAnswer": "Carbono"
+    },
+    {
+        "ask": "Qual dessas aves não voa?",
+        "amount": 50,
+        "answer1": "Pinguim",
+        "answer2": "Galinha",
+        "answer3": "Cegonha",
+        "answer4": "Pato",
+        "correctAnswer": "Pinguim"
+    },
+    {
+        "ask": "O etanol é produzido através de qual fonte de energia?",
+        "amount": 50,
+        "answer1": "Biomassa",
+        "answer2": "Solar",
+        "answer3": "Eólica",
+        "answer4": "Geotérmica",
+        "correctAnswer": "Biomassa"
+    },
+    {
+        "ask": "Qual desses não é um instrumento meteorológico?",
+        "amount": 50,
+        "answer1": "Barógrafo",
+        "answer2": "Termômetro",
+        "answer3": "Pluviômetro",
+        "answer4": "Etilômetro",
+        "correctAnswer": "Etilômetro"
+    },
+    {
+        "ask": "Homem Vitruviano é um desenho de qual artista famoso?",
+        "amount": 50,
+        "answer1": "Leonardo da Vinci",
+        "answer2": "Van Gogh",
+        "answer3": "Donatello",
+        "answer4": "Michelangelo",
+        "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+        "ask": "Palavra “paz” soletrada através do alfabeto fonético da Otan:",
+        "amount": 50,
+        "answer1": "Pá - amor - zuuum",
+        "answer2": "Paz - Aurélio - zulu",
+        "answer3": "Papa - alfa - zulu",
+        "answer4": "Delta - Charlie - ômega",
+        "correctAnswer": "Papa - alfa - zulu"
+    },
+    {
+        "ask": "O Dia do Fico é anualmente celebrado em que data?",
+        "amount": 50,
+        "answer1": "7 de setembro",
+        "answer2": "19 de abril",
+        "answer3": "9 de janeiro",
+        "answer4": "1º de maio",
+        "correctAnswer": "9 de janeiro"
+    },
+    {
+        "ask": "Complete a frase: ___ ao vencedor!",
+        "amount": 50,
+        "answer1": "Quimeras",
+        "answer2": "Cócoras",
+        "answer3": "Oblações",
+        "answer4": "Alvíssaras",
+        "correctAnswer": "Alvíssaras"
+    },
+    {
+        "ask": "As cantigas de Escárnio e Maldizer pertencem a qual escola literária?",
+        "amount": 50,
+        "answer1": "Trovadorismo",
+        "answer2": "Quinhentismo",
+        "answer3": "Modernismo",
+        "answer4": "Barroco",
+        "correctAnswer": "Trovadorismo"
+    },
+    {
+        "ask": "Quantos dias, aproximadamente, a Lua demora para dar uma volta à Terra?",
+        "amount": 50,
+        "answer1": "365 dias",
+        "answer2": "366 dias",
+        "answer3": "28 dias",
+        "answer4": "31 dias",
+        "correctAnswer": "28 dias"
+    },
+    {
+        "ask": "Qual a unidade que mede a intensidade do som?",
+        "amount": 50,
+        "answer1": "Hertz",
+        "answer2": "Frequência",
+        "answer3": "Decibel",
+        "answer4": "Ruído",
+        "correctAnswer": "Decibel"
+    },
+    {
+        "ask": "Em que país nasceu o Conde Drácula?",
+        "amount": 50,
+        "answer1": "Polônia",
+        "answer2": "Irlanda",
+        "answer3": "Escócia",
+        "answer4": "Transilvânia",
+        "correctAnswer": "Transilvânia"
+    },
+    {
+        "ask": "Que tipo de tempestade é um haboob?",
+        "amount": 50,
+        "answer1": "tempestade de neve",
+        "answer2": "tempestade de granizo",
+        "answer3": "tempestade de areia",
+        "answer4": "tempestade de raios",
+        "correctAnswer": "tempestade de areia"
+    },
+    {
+        "ask": "Que capital asiática tem uma Cidade Imperial e uma Cidade Proibida?",
+        "amount": 50,
+        "answer1": "Pequim",
+        "answer2": "Tóquio",
+        "answer3": "Cingapura",
+        "answer4": "Seul",
+        "correctAnswer": "Pequim"
+    },
+    {
+        "ask": "Que país foi dividido em 1949?",
+        "amount": 50,
+        "answer1": "Dinamarca",
+        "answer2": "Áustria",
+        "answer3": "Polônia",
+        "answer4": "Alemanha",
+        "correctAnswer": "Alemanha"
+    },
+    {
+        "ask": "Que povo foi o primeiro a utilizar a bússola?",
+        "amount": 50,
+        "answer1": "gregos",
+        "answer2": "romanos",
+        "answer3": "chineses",
+        "answer4": "egípcios",
+        "correctAnswer": "chineses"
+    },
+    {
+        "ask": "Qual era o deus romano do amor?",
+        "amount": 50,
+        "answer1": "Eros",
+        "answer2": "Júpiter",
+        "answer3": "Cupido",
+        "answer4": "Apolo",
+        "correctAnswer": "Cupido"
+    },
+    {
+        "ask": "Que personagem da mitologia grega era metade homem metade cavalo?",
+        "amount": 50,
+        "answer1": "Centauro",
+        "answer2": "Sátiro",
+        "answer3": "Górgona",
+        "answer4": "Gigante",
+        "correctAnswer": "Centauro"
+    },
+    {
+        "ask": "De quem é a famosa frase “Penso, logo existo”?",
+        "amount": 50,
+        "answer1": "Platão",
+        "answer2": "Galileu Galilei",
+        "answer3": "Descartes",
+        "answer4": "Sócrates",
+        "correctAnswer": "Descartes"
+    },
+    {
+        "ask": "De onde é a invenção do chuveiro elétrico?",
+        "amount": 50,
+        "answer1": "França",
+        "answer2": "Inglaterra",
+        "answer3": "Brasil",
+        "answer4": "Austrália",
+        "correctAnswer": "Brasil"
+    },
+    {
+        "ask": "Quantas casas decimais tem o número pi?",
+        "amount": 50,
+        "answer1": "Centenas",
+        "answer2": "Infinitas",
+        "answer3": "Vinte",
+        "answer4": "Milhares",
+        "correctAnswer": "Infinitas"
+    },
+    {
+        "ask": "O que a palavra 'legend' significa em português?",
+        "amount": 50,
+        "answer1": "Legenda",
+        "answer2": "Conto",
+        "answer3": "História",
+        "answer4": "Lenda",
+        "correctAnswer": "Lenda"
+    },
+    {
+        "ask": "Qual o número mínimo de jogadores por time numa partida de futebol?",
+        "amount": 50,
+        "answer1": "7",
+        "answer2": "5",
+        "answer3": "9",
+        "answer4": "8",
+        "correctAnswer": "7"
+    },
+    {
+        "ask": "Quanto tempo a luz do Sol demora para chegar à Terra?",
+        "amount": 50,
+        "answer1": "segundos",
+        "answer2": "12 minutos",
+        "answer3": "8 minutos",
+        "answer4": "12 horas",
+        "correctAnswer": "8 minutos"
+    }
+]

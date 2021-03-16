@@ -1,0 +1,68 @@
+.askBoxContainer {
+    display: grid;
+    justify-items: center;
+}
+
+.askBoxContainer > h1 {
+    margin-top: 1rem;
+    font-size: 6rem;
+    text-align: center;
+}
+
+.askBoxContainer > h2 {
+    margin-top: 1rem;
+    font-size: 5rem;
+    text-align: center;
+}
+
+.askBoxContainer > button {
+    margin-top: 2rem;
+    width: 100%;
+    height: 8rem;
+    font-size: 5rem;
+    border-radius: 8px;
+    border: solid var(--green);
+    
+    color: var(--green);
+    transition: 0.2s;
+}
+
+.askBoxContainer > button:hover {
+    background: var(--green);
+    color: white;
+}
+
+.askBoxAskContainer > p {
+    font-size: 5rem;
+    text-align: center;
+}
+
+.askBoxAskContainer > div > span {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr 1fr;
+    gap: 1rem;
+    margin-top: 2rem;
+    font-size: 3rem;
+}
+
+.askBoxAskContainer > div > span > button {
+    font-size: 3rem;
+    border-radius: 10px;
+}
+
+.askBoxAskContainer > div > span > button:hover {
+    background: rgb(250, 250, 130);
+}
+
+.askBoxButtonJump {
+    width: 100%;
+    margin-top: 2rem;
+    font-size: 3rem;
+    border-radius: 10px;
+    border: solid rgb(255, 145, 125);
+}
+
+.askBoxButtonJump:hover {
+    background: rgb(255, 145, 125);
+}
